@@ -1,0 +1,22 @@
+{
+  "name": "noul_car_bot",
+  "version": "1.0.0",
+  "description": "noul car reservation slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noulinc/NoulCarBot.git"
+  },
+  "author": "howard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noulinc/NoulCarBot/issues"
+  },
+  "homepage": "https://github.com/noulinc/NoulCarBot#readme",
+  "dependencies": {
+    "@slack/client": "^3.8.1"
+  }
+}
